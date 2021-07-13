@@ -1,0 +1,159 @@
+50
+All tiles are considered ”corridors”.
+Nr Layout Rooms
+Total
+doors
+Special rules
+2
+The party enters a long corridor with a door in the other end.
+2 No special rules
+3
+In the middle of the corridor lies an old backpack. Maybe there is something useful there?
+2 The backpack may be searched
+4
+Engraved in the walls on each side are large skulls. They give an eerie feeling of vigilance, as if they are watching every step the adventurers take.
+2 Increase the threat level by 1
+5
+Just another long-stretched corridor.  Better hurry on forward!
+2 No special rules.
+6
+There are gratings in the floor throughout this corridor. By the look of it, the metal has seen better days and are very rusty. The first step makes the metal grind and make a tormented sound. The sound echoing through the corridor is bound attract some attention.
+2
+If the party enters the corridor, raise the threat level by 1. At the end of the turn, roll 1d10. If it ends up 1, the gratings give way, and one random hero must pass a DEX test (applying sixth sense if the hero has that talent) or fall down into the pit below. The hero takes 1d10 damage, without Armour but with NA. To get up, the party can either use a rope, or the hero must past a DEX test. It will take a full turn either way.
+7
+This dank corridor seems to end in two doorways, each lit by a torch in the wall.
+3
+No special rules. Deal the cards in two piles, then invert them to that the topmost card ends up at the bottom.  Place each tile by an opening.
+8
+This dank corridor seems to end in two doorways, each lit by a torch in the wall.
+3
+No special rules. Deal the cards in two piles, then invert them to that the topmost card ends up at the bottom.  Place each tile by an opening.
+9
+There are three different openings in this corridor, each covered by heavy wooden doors.
+4
+No special rules. Deal the cards in three piles, then invert them to that the topmost card ends up at the bottom. Place each tile by an opening.
+10
+The party suddenly halts as they discover that the floor has given way in the middle of the corridor. Where the floor should be, there is now a large gaping hole of unknown depth.
+2
+The party can decide to jump across the chasm, passing and DEX+10 test. If a hero fails, he will fall into the chasm.  See Clover 3 for rules.
+
+All tiles are considered ”corridors”.
+2
+The corridor splits in two at a crossway, leaving three possible ways to go.  There is nothing special to observe in this room but the cold moisty stonewalls.
+4
+No special rules. Deal the cards in three piles, then invert them to that the topmost card ends up at the bottom. Place each tile by an opening.
+3
+The corridor splits in two. From the left there is a foul smell, and there seems to be far away noises coming from the right.
+3
+No special rules. Deal the cards in two piles, then invert them to that the topmost card ends up at the bottom. Place each tile by an opening.
+4
+The corridor makes a sharp turn. In the corner, up against the wall sits a dead adventurer. By the look of it, he or she must have been there for a while since most of the flesh has been eaten away by god knows what.
+2 The adventurer may be searched.
+5
+A short distance ahead there is a bend in the corridor. Everything things seems quiet, apart from the sound of water droplets hitting the floor.
+2 No special rules.
+6
+The corridor makes a sharp turn. As the party enters the corridor there is a sudden sound of something dragging across the floor and shadows dancing on the wall before everything turns quiet again.
+2 Increase the threat level by 1
+7
+The corridor in front of you has collapsed and there is no way you can get through without digging through the debris.
+2
+Roll a 1d00. This is the number of stones that must be removed. Each player can remove their STR/10 RDU number of stones during a full turn. A dwarf, being used to the labours in the mines, can remove STR/5 RDU. Any character equipped with a pickaxe can remove twice his amour per turn. The noise done will raise the threat level by 1 each turn.
+8
+The party comes across a stair, leading upwards into darkness. The steps are slippery but worn. This must be a widely used passage.
+2
+Take out 4 more cards from the pile of unused cards and add them in the middle of the pile.
+9
+There are four different openings in this corridor, each covered by heavy wooden doors.
+4
+No special rules. Deal the cards in three piles, then invert them to that the topmost card ends up at the bottom. Place each tile by an opening.
+10
+There are two different openings in this corridor, each covered by heavy wooden doors.
+2
+
+All tiles are considered ”rooms”.
+Nr Layout Rooms Total
+doors
+Special rules
+2
+Large storage room This dark room seems to be some kind of warehouse as it is littered with crates, barrels and sacks.
+2
+Place 4 stacks of boxes and 2 barrels in the room. The stacks can each be individually searched.
+3
+*The Alchemist Chamber*\nThere is a foul odour in this chamber that must be emanating from one of the countless bottles and jars with alchemical ingredients. There is table propped up against the wall covered with this and that. On one side the party happily sees a small chest as well.  Along the wall is dirty, unmade bed.  
+2 The table and chest can be searched.
+4
+*The Library*\nIt feels like the air has been still in this room for a very long time. Dust is covering all the shelves and the hundreds of books in this room. It seems the shelves were not enough, since there are also piles of books on the floor. In the middle of the room is a table, probably used for reading.
+2
+There are 3 bookshelves and a table in this room. They may all be searched.
+5
+*The Temple*\nClearly, this room has been used as a shrine for some forsaken god. On one side is an altar flanked by two lit braziers. Along the opposite wall are a large statue, maybe resembling the forgotten deity.
+2
+Both the statue and altar can be searched
+
+Nr Layout Rooms Total
+doors
+Special rules
+6
+*The Torture chambers*\nThe smell in this room makes the adventurers’ stomachs turn. There are several contraptions in this room, cleverly designed to cause as much pain as possible to the ones unfortunate enough to be brought here. In the middle of the rooms is a table covered in body parts and decorating the walls are the bloody remnants of torture masters’ work. In one corner, there is small chest, maybe containing the belongings of some victim.
+2 The chest may be searched.
+7
+*The Guards chamber*\nThis dimly lit chamber appears to be some kind of barrack. The fact that there are torches burning indicates that whoever sleeps here cannot be far away. There are several makeshift beds on the floor, some even with sacks or backpacks. Alongside one wall in a weapons rack, that seems to have some weapons still there.
+3
+There are 3 bedrolls on the floor that can be searched, as well as the weapon rack.  However, the threat level is also raised by 1.  Furthermore, the chance of encounter in this room is increased by 15%.
+8
+*Monster Den*\nAs soon as the party opens the door, they realize that this room is different. The smell of excrements is overwhelming, and there are no sources of light.  Carefully setting one foot inside the room, you hear the crunching sound of bones under your foot. The floor is littered in bones. It dawns on you that something non-human lives in here. However, gleaming in one corner is what seems to be a pile of gold.
+2
+Roll on the table to decide what monster lives here.  There is also an +10% increased chance of encounters, in which case the monster will appear instead of using the standard tables:*1:* Common troll, Armour 2; *2:* A Minotaur, Greataxe,Armour 2;*3:* A Gigantic snake; *4-6:* A Gigantic spider\NThe pile can be searched.
+9
+*Small treasure chamber*\nFinally, a room worthy of your presence. Even though the stones are as dank and dark as the rest of dungeon, there is a silver lining here. Alongside the walls are several chests just waiting to be plundered.
+1
+There are 3 chests in this room, of one is considered an objective chest.
+10
+*The Sanctuary*\nThere is a silence in this room that somehow feels reassuring. The room is dimly lit and in the middle of the room is a large fountain. The water from the fountain mirrors the torches, making the light dance across the ceiling and walls.
+2
+The water in the fountain can be drunk. Furthermore, it can be searched. The threat level is decreased by 2.
+
+All tiles are considered ” Rooms”.
+Nr Layout Rooms Total
+doors
+Special rules
+2
+*Large Pillar hall*\nThis grand hall is adorned with two rows of pillars. On one of the long sides are a small water basin and there are two sinister statues on either side of the room. Two armour mannequins are propped up against the wall.
+3
+The statues can be searched, and the water in the basin can be drunk. The mannequins can be searched. See notes under furniture chapter.
+3
+*Empty room*\nThis room is completely empty. Looking around you discover a large lever set in one of the walls.
+2
+The lever can be pulled. If you chose to pull it roll below: *1-3:* A rumbling noise is heard, but nothing happens. *4:* The unopened door opens. *5:* Will a loud bang, a portcullis falls down, now covering the opening you came from. *6:* A hidden door opens, leading to a small treasure chamber.\nSee *Hearts 9*.
+4
+*Large dining hall*\nThe party enters a large hall that appears to be some kind of dining hall. There are several tables with chairs placed in the room, and in one corner is a large fireplace. It is difficult to say when it was last used, but the tables are filled with plates and old food.  Alongside one wall is two armoured mannequins, covered in cobweb.
+2
+There are 3 tables in the room.  They are considered dining tables for searching purposes.  The mannequins may also be searched.
+5
+*The Pit*\nJust inside the door is a steep ledge. Carefully peeking over the edge, you see a pit so deep that cannot see the bottom.  You drop a small pebble down the chams and wait for the sound of it hitting the bottom, but after a minute of waiting, there is still no sound. Luckily, there is a rickety bridge going across to the other side and the door you've seen.
+2
+Fighting on the bridge is treacherous. Any hero reduced to 0 hit points must make a DEX roll. A failure will send the hero over the edge, plummeting to his death.
+
+Nr Layout Rooms Total
+doors
+Special rules
+6 
+*Cell*\nThe heroes open the door and notice that this is a small cell. There is a grating in the floor and there are the remnants of some poor soul chained to the wall.
+1 The prisoner can be searched (dead adventurer) as well as the grating.
+7
+*Storage room*\nThis small room seem to be some kind of storage. There are piles of boxes lined up against the wall.
+2
+There are 2 sets of boxes that can be searched.  
+8
+The small study This room has a stained wooden floor and seems to be some kind of study. There is a table along the wall, and a bookshelf along the opposite wall. Besides the table, there is a small chest.
+1
+The table, chest and shelf can be searched.
+9 
+*The small bedroom*\nCompared to the rest of the rooms you've seen in the dungeon, this room is almost cosy. There is a bed along one of the walls and at the end of the bed, there is a small chest. In a corner, there is a comfortable chair and there is a cupboard along the wall.
+1
+The chest, bed and cupboard may be searched
+10 
+*The well*\nIn the middle of this small room there is a round well. Besides the well lies the remnants of a dead adventurer. Probably best to not test the water.
+2
+The adventurer may be searched.
