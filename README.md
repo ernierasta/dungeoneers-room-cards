@@ -20,8 +20,8 @@ If you want to automate image enlarging (may be not worth it under Windows):
 
 I have two PDF version, all should be printable on A4 and Letter pages. For friend from USA - bottom part of cutting lines will be probably not printed, but it should be ok. If not, let me know!
 
-- Duplex printig layout.
-- Gutter fold layout.
+- [Duplex printig layout](Dungeoneers_Room_Cards-duplex.pdf).
+- [Gutter fold layout](Dungeoneers_Room_Cards-gutter.pdf).
 
 ## How to - from extracting data from componnents PDF to creating PDF with cards
 
