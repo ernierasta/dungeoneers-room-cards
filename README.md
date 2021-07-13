@@ -56,6 +56,12 @@ Now add filename to csv file, generate layouts until you are happy. Then modify 
 
 Let's get fancy and generate whole layouts without opening Inkscape :-)
 ```bash
-mkidir -p src/temp/1
-PYTHONPATH=/usr/share/inkscape/extensions/ python3 $HOME/.config/inkscape/extensions/countersheet.py -d src/rooms.csv -I src/images -p src/temp/1/ -z 2mm -r 3mm -D true -O 5mm -S 4mm -B true src/rooms.svg > src/result1.svg
+# duplex
+PYTHONPATH=/usr/share/inkscape/extensions/ python3 $HOME/.config/inkscape/extensions/countersheet.py -d src/rooms.csv -I src/images -z 2mm -r 3mm -D true -O 5mm -S 4mm -B true -n duplex src/rooms.svg > src/Dungeoneers_Room_Cards-duplex.svg
+src/export-pdf-from-layers.sh src/Dungeoneers_Room_Cards-duplex.svg
+
+# gutter
+PYTHONPATH=/usr/share/inkscape/extensions/ python3 $HOME/.config/inkscape/extensions/countersheet.py -d src/rooms.csv -I src/images -z 2mm -r 3mm -D true -O 0mm -S 4mm -B false -o true -L true -F 90 -G'-90' -n gutter src/rooms.svg > src/Dungeoneers_Room_Cards-gutter.svg
+src/export-pdf-from-layers.sh src/Dungeoneers_Room_Cards-gutter.svg
+
 ```
