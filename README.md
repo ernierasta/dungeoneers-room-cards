@@ -1,6 +1,6 @@
 #  Michael Lundstedt - Dungeoneers - Unofficial Room Cards #
 
-**Description**: In short - in progress of making usable Dungeoneers Room Cards. 
+**Description**: In short - in progress of making usable [Dungeoneers](https://boardgamegeek.com/boardgame/336195/dungeoneers) Room Cards. 
 
 Michael created very interesting dungeon crawler, so in this repo you will find room cards which will shorten room generation process. I had tryied to keep original rooms description and rules where possible, but few cards were shortened. Even with that, font may be a still a bit small.
 
