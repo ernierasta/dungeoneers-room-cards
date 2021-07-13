@@ -24,25 +24,19 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.6832492"
-     inkscape:cx="-248.57922"
-     inkscape:cy="160.06713"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="-389.08052"
+     inkscape:cy="242.6163"
      inkscape:window-width="2556"
      inkscape:window-height="1396"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g17402"
      inkscape:snap-page="true"
      units="in" />
   <defs
      id="defs2">
-    <rect
-       x="-635.09753"
-       y="802.26898"
-       width="223.52216"
-       height="58.339371"
-       id="rect371237" />
     <rect
        x="-493.85379"
        y="38.04512"
@@ -61,51 +55,11 @@
        width="204.08394"
        height="112.32135"
        id="rect197356" />
-    <rect
-       x="-491.53012"
-       y="163.42133"
-       width="198.68649"
-       height="161.12782"
-       id="rect169886" />
-    <clipPath
-       id="bleed_56x85_False_False_False_False">
-      <rect
-         x="0"
-         y="0"
-         width="56.999981"
-         height="85.999901"
-         id="rect301702" />
-    </clipPath>
-    <clipPath
-       id="bleed_56x85_True_True_True_True">
-      <rect
-         x="-56.999981"
-         y="-85.999901"
-         width="170.99994"
-         height="257.99969"
-         id="rect301705" />
-    </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <image
-       width="57.912003"
-       height="87.884003"
-       preserveAspectRatio="none"
-       xlink:href="images/Backside_slight_bleed.png"
-       id="image404"
-       x="-232.528"
-       y="21.731873" />
-    <image
-       width="59.097332"
-       height="88.391998"
-       preserveAspectRatio="none"
-       xlink:href="images/Front_with_bleed.jpg"
-       id="image416"
-       x="-212.87416"
-       y="-73.82235" />
     <g
        id="g280292">
       <rect
@@ -217,7 +171,7 @@
          style="font-size:12px;line-height:1;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect197356)"><tspan
            x="-494.29688"
            y="171.94922"
-           id="tspan17454">rules here</tspan></text>
+           id="tspan241">rules here</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,0,-0.39483243)"
@@ -227,12 +181,12 @@
          y="0"><tspan
            x="-493.85352"
            y="48.330636"
-           id="tspan17456">description</tspan></text>
+           id="tspan243">description</tspan></text>
       <image
          width="18.079407"
          height="10.904142"
          preserveAspectRatio="none"
-         xlink:href="../rooms/padded/12x6.png"
+         xlink:href="images/12x6.png"
          id="room-icon"
          x="-97.173447"
          y="41.962414"
