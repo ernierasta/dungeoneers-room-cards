@@ -6,9 +6,9 @@
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    id="svg5"
    version="1.1"
-   viewBox="0 0 215.9 279.4"
-   height="11in"
-   width="8.5in"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.3416246"
-     inkscape:cx="-389.08052"
-     inkscape:cy="242.6163"
+     inkscape:cx="-416.28634"
+     inkscape:cy="153.1725"
      inkscape:window-width="2556"
      inkscape:window-height="1396"
      inkscape:window-x="0"
@@ -34,7 +34,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="g17402"
      inkscape:snap-page="true"
-     units="in" />
+     units="mm" />
   <defs
      id="defs2">
     <rect
@@ -171,7 +171,7 @@
          style="font-size:12px;line-height:1;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect197356)"><tspan
            x="-494.29688"
            y="171.94922"
-           id="tspan241">rules here</tspan></text>
+           id="tspan166">rules here</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,0,-0.39483243)"
@@ -181,7 +181,7 @@
          y="0"><tspan
            x="-493.85352"
            y="48.330636"
-           id="tspan243">description</tspan></text>
+           id="tspan168">description</tspan></text>
       <image
          width="18.079407"
          height="10.904142"
